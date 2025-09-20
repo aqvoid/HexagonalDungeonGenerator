@@ -12,6 +12,10 @@
 /[Uu]ser[Ss]ettings/
 *.log
 
+# Full version will be private
+/Assets/[Ff]ull [Vv]ersion
+/Assets/[Ff]ull [Vv]ersion.meta
+
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
 *.blend1.meta
